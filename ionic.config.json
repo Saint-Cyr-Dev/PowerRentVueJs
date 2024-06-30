@@ -1,0 +1,7 @@
+{
+  "name": "PowerRent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
